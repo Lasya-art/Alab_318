@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>#title#</title>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+
+  <body>
+    <div id="app">
+      <h1>Learn More About Us</h1>
+      <h3> Our Key Services</h3>
+  <ul>
+    <li>Software engineering</li>
+    <li> Java</li>
+    <li> IT Support</li>
+    
+      <div>#content#</div>
+    </div>
+  </body>
+</html>
+
